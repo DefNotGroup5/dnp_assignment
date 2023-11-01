@@ -1,0 +1,21 @@
+﻿@page "/"
+@using HttpClients.ClientInterfaces
+@using Domain.DTOs
+@inject IUserService UserService
+@inject NavigationManager NavMgr;
+
+<PageTitle>Index</PageTitle>
+<div class="container">
+   <div class="title-card">
+      <h3 @onclick="Secret">@_text</h3>
+   </div>
+</div>
+
+@code {
+   private string _text = "Welcome to Lo-Fi Reddit!";
+
+   private void Secret()
+   {
+      _text = "YOU FOUND OUR SECRET :O";
+   }
+}

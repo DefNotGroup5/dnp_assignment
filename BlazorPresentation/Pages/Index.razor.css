@@ -1,0 +1,28 @@
+﻿.container {
+    min-height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid white;
+    height: auto;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    cursor: pointer;
+}
+
+h3 {
+    margin:0;
+    font-size: 32pt;
+    color: white;
+    cursor: pointer;
+}

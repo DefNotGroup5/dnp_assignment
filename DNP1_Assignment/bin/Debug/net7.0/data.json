@@ -1,0 +1,106 @@
+{
+  "Users": [
+    {
+      "Id": 2,
+      "Username": "user",
+      "Password": "55555555",
+      "IsLoggedIn": true
+    },
+    {
+      "Id": 1,
+      "Username": "pokipotato",
+      "Password": "12121212",
+      "IsLoggedIn": true
+    }
+  ],
+  "Posts": [
+    {
+      "Id": 1,
+      "Title": "This is the first post here",
+      "Body": "Here\u0027s the first post on this website!",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 2,
+      "Title": "Second Post",
+      "Body": "This is the the second post that will appear here!",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 3,
+      "Title": "sup",
+      "Body": "sup2",
+      "Owner": {
+        "Id": 2,
+        "Username": "user",
+        "Password": "55555555",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 4,
+      "Title": "bBbB",
+      "Body": "jbejbcjebce",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 5,
+      "Title": "ewfewf",
+      "Body": "efwoefweiofmw",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 6,
+      "Title": "PEFIOWNFEIO",
+      "Body": "WNFJOWENFOENFOWEFNW",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 7,
+      "Title": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "Body": "adfafadfefwefwfw",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 8,
+      "Title": "Blabla",
+      "Body": "feowjfnqnefiwqnefiuqnefiwqpefqpefq",
+      "Owner": {
+        "Id": 1,
+        "Username": "pokipotato",
+        "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    }
+  ]
+}

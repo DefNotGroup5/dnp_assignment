@@ -1,0 +1,122 @@
+*[b-xkbaruw8kt] {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body[b-xkbaruw8kt] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: transparent;
+}
+
+.login-box[b-xkbaruw8kt] {
+    position: relative;
+    width: 400px;
+    height: 450px;
+    background: transparent;
+    border: 2px solid #E2FCEF;
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 20px #9B287B;
+}
+
+h2[b-xkbaruw8kt] {
+    font-size: 3rem;
+    color: #E2FCEF;
+    text-align: center;
+}
+
+.login-group[b-xkbaruw8kt] {
+    position: relative;
+    width: 310px;
+    margin: 30px auto;
+    border-bottom: 2px solid #E2FCEF;
+}
+
+.login-group label[b-xkbaruw8kt] {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: 1rem;
+    color: #E2FCEF;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.login-group input:focus~label[b-xkbaruw8kt],
+.login-group input:valid~label[b-xkbaruw8kt] {
+    top: -5px;
+}
+
+.login-group input[b-xkbaruw8kt] {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    color: #E2FCEF;
+    padding: 0 35px 0 5px;
+}
+
+.error-label[b-xkbaruw8kt] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #E2FCEF;
+}
+
+.button-span[b-xkbaruw8kt] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.login-button[b-xkbaruw8kt] {
+    width: 150px;
+    height: 40px;
+    background-color: #E2FCEF;
+    border: transparent;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.login-button:hover[b-xkbaruw8kt] {
+    background-color: #c8ccca;
+    text-decoration: underline;
+}
+
+.login-button:active[b-xkbaruw8kt] {
+    background-color:#E2FCEF;
+}
+
+a[b-xkbaruw8kt] {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    color: #E2FCEF;
+    text-decoration: none;
+}
+a:hover[b-xkbaruw8kt] {
+    text-decoration: underline;
+    cursor: pointer;    
+}
+
+a:active[b-xkbaruw8kt] {
+    color: #c8ccca;
+}
+
+
+
+

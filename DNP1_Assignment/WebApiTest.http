@@ -1,0 +1,16 @@
+PATCH http://localhost:5297/Users/Login
+Content-Type: application/json
+
+{ "Username" : "user1", "Password" : "user1234" }
+
+###
+
+POST http://localhost:5297/Posts
+Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKV1RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJpYXQiOiIxMC8yNi8yMDIzIDg6MzQ6MTYgQU0iLCJqdGkiOiI3ZTIxMWQ1Yy1mZmQ4LTQyNzktODYzMi03MGFmZTFkZTdkMGQiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoidXNlcjEiLCJleHAiOjE2OTgzMTI4NTYsImlzcyI6IkpXVEF1dGhlbnRpY2F0aW9uU2VydmVyIiwiYXVkIjoiSldUU2VydmljZUJsYXpvcldhc21DbGllbnQifQ.441lLRuJ3pWvxKATQ0E7tA8bsQ09tqZepvm0nveBSwP0NgtQz-_Jfp6mAr3NNoAwzwypMaceTzRJILKdGvqCxQ
+Content-Type: application/json
+
+{
+  "ownerId": 1,
+  "title": "string",
+  "body": "string"
+}

@@ -1,0 +1,106 @@
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\appsettings.Development.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\appsettings.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.exe
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.deps.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.runtimeconfig.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Application.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Domain.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\FileData.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Application.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\FileData.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Domain.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.csproj.AssemblyReference.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.AssemblyInfoInputs.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.AssemblyInfo.cs
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.csproj.CoreCompileInputs.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.DNP1_Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.build.DNP1_Assignment.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DNP1_Assignment.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DNP1_Assignment.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets.pack.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets.build.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets.development.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\scopedcss\bundle\DNP1_Assignment.styles.css
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.csproj.CopyComplete
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\refint\DNP1_Assignment.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.genruntimeconfig.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\ref\DNP1_Assignment.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\data.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\appsettings.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.exe
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.deps.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.runtimeconfig.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\DNP1_Assignment.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Application.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Domain.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\FileData.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Application.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\FileData.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.csproj.AssemblyReference.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.AssemblyInfoInputs.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.AssemblyInfo.cs
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.DNP1_Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.build.DNP1_Assignment.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DNP1_Assignment.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DNP1_Assignment.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\scopedcss\bundle\DNP1_Assignment.styles.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.csproj.CopyComplete
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\refint\DNP1_Assignment.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\DNP1_Assignment.genruntimeconfig.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\obj\Debug\net7.0\ref\DNP1_Assignment.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\DNP1_Assignment\bin\Debug\net7.0\data.json

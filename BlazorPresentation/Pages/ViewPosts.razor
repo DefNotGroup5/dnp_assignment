@@ -1,0 +1,73 @@
+﻿@page "/Posts"
+@using HttpClients.ClientInterfaces
+@using Domain.Models
+@inject IPostService PostService;
+@inject NavigationManager NavMgr;
+
+<body>
+@if (!string.IsNullOrEmpty(_resultMsg))
+{
+    <div>
+        <span>@_resultMsg</span>
+    </div>
+}
+
+@if (_posts == null)
+{
+    <span>Loading...</span>
+}
+
+else if (!_posts.Any())
+{
+    <span>No posts to be found...</span>
+}
+
+else
+{
+    <div class="post-container">
+        <h2>All Posts</h2>
+        @foreach (Post post in _posts)
+        {
+            <div class="post-card" @onclick="() => NavigateToPost(post)">
+                @if (post.Title.Length > 45)
+                {
+                    string title = post.Title;
+                    title = title.Substring(0,44);
+                    title += "...";
+                    <label class="postname">@title</label>
+                }
+                else
+                {
+                    <label class="postname">@post.Title</label>
+                }
+                <label class="username">Created by @post.Owner.Username</label>
+            </div>
+        }
+    </div>
+}
+</body>
+
+@code {
+    private IEnumerable<Post>? _posts;
+    private string _resultMsg;
+    protected override async Task OnInitializedAsync()
+    {
+        _resultMsg = "";
+        try
+        {
+            _posts = await PostService.GetPosts();
+        }
+        catch(Exception e)
+        {
+            Console.WriteLine(e);
+            _resultMsg = e.Message;
+        }
+    }
+
+    private void NavigateToPost(Post post)
+    {
+        string postUrl = $"/ViewPost/{post.Id}";
+        NavMgr.NavigateTo(postUrl);
+    }
+
+}

@@ -1,0 +1,107 @@
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\appsettings.Development.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\appsettings.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.staticwebassets.runtime.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.exe
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.deps.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.runtimeconfig.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Domain.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\HttpClients.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\HttpClients.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Domain.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.csproj.AssemblyReference.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.AssemblyInfoInputs.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.AssemblyInfo.cs
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.csproj.CoreCompileInputs.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.MvcApplicationPartsAssemblyInfo.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.RazorAssemblyInfo.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.RazorAssemblyInfo.cs
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPresentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPresentation.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPresentation.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPresentation.props
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets.pack.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets.build.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets.development.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\bundle\BlazorPresentation.styles.css
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\projectbundle\BlazorPresentation.bundle.scp.css
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.csproj.CopyComplete
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\refint\BlazorPresentation.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.genruntimeconfig.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\ref\BlazorPresentation.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\LoginButtons.razor.rz.scp.css
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\appsettings.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.staticwebassets.runtime.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.exe
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.deps.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.runtimeconfig.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\BlazorPresentation.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Domain.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\HttpClients.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\HttpClients.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.csproj.AssemblyReference.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.AssemblyInfoInputs.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.AssemblyInfo.cs
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.RazorAssemblyInfo.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.RazorAssemblyInfo.cs
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.BlazorPresentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorPresentation.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorPresentation.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorPresentation.props
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\LoginButtons.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\bundle\BlazorPresentation.styles.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\projectbundle\BlazorPresentation.bundle.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.csproj.CopyComplete
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\refint\BlazorPresentation.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\BlazorPresentation.genruntimeconfig.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\ref\BlazorPresentation.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\LoginRegister.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\ViewPosts.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\ViewPost.razor.rz.scp.css
+C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\obj\Debug\net7.0\scopedcss\Pages\CreatePost.razor.rz.scp.css

@@ -1,0 +1,24 @@
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\bin\Debug\net7.0\Domain.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\bin\Debug\net7.0\Domain.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.pdb
+C:\_STE\_Semester 3\DNP\Exercises\DNP1_Assignment\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Pakki\Desktop\DNP1_Assignment\Domain\obj\Debug\net7.0\ref\Domain.dll

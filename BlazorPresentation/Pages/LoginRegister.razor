@@ -1,0 +1,133 @@
+﻿@page "/Login"
+@using HttpClients.ClientInterfaces
+@using Domain.DTOs
+@inject IUserService UserService
+@inject NavigationManager NavMgr
+<body>
+<div class="login-box">
+    <div class="container">
+    @if (_isLogin)
+    {
+        <AuthorizeView>
+            <NotAuthorized>
+                <h2>Login</h2>
+            </NotAuthorized>
+            <Authorized>
+                <h2>Yoo, @context.User.Identity?.Name</h2>
+            </Authorized>
+        </AuthorizeView>
+    }
+    else
+    {
+        <h2>Register</h2>
+    }
+    <AuthorizeView>
+        <NotAuthorized>
+            <div class="login-group">
+                <input type="text" @bind="_username" required/>
+                <label>Username: </label>
+            </div>
+            <div class="login-group">
+                <input type="password" @bind="_password" required/>
+                <label>Password: </label>
+            </div>
+            @if (!string.IsNullOrEmpty(_resultMsg))
+            {
+                <label class="error-label">@_resultMsg</label>
+            }
+            @if (_isLogin)
+            {
+                <div class="button-span">
+                    <button class="login-button" @onclick="LoginAsync">Login</button>
+                </div>
+                <a href="/Login" @onclick="() => ChangeIsLogin(false)">Register</a>
+            }
+            else
+            {
+                <div class="button-span">
+                    <button class="login-button" @onclick="RegisterAsync">Register</button>
+                </div>
+                <a href="/Login" @onclick="() => ChangeIsLogin(true)">Login</a>
+            }
+        </NotAuthorized>
+    </AuthorizeView>
+    </div>
+</div>
+</body>
+
+@code {
+    private bool _isLogin = true;
+    private string _username;
+    private string _password;
+    
+    private string _resultMsg = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        _resultMsg = "";
+    }
+
+    private async Task RegisterAsync()
+    {
+        _resultMsg = "";
+        if (string.IsNullOrEmpty(_username))
+        {
+            _resultMsg = "Username must be typed in!";
+            return;
+        }
+        if (string.IsNullOrEmpty(_password))
+        {
+            _resultMsg = "Password must be typed in!";
+            return;
+        }
+        try
+        {
+            await UserService.CreateAsync(new UserNamePasswordDto(_username, _password));
+            _username = "";
+            _password = "";
+            _resultMsg = "User Successfully Registered!";
+            _isLogin = true;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            _resultMsg = e.Message;
+        }
+    }
+
+    private async Task LoginAsync()
+    {
+        _resultMsg = "";
+        if (string.IsNullOrEmpty(_username))
+        {
+            _resultMsg = "Username must be typed in!";
+            return;
+        }
+        if (string.IsNullOrEmpty(_password))
+        {
+            _resultMsg = "Password must be typed in!";
+            return;
+        }
+        try
+        {
+            await UserService.Login(new UserNamePasswordDto(_username, _password));
+            _username = "";
+            _password = "";
+            _resultMsg = "User Successfully Logged In";
+            NavMgr.NavigateTo("/Login");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            _resultMsg = e.Message;
+        }
+    }
+
+    private void ChangeIsLogin(bool login)
+    {
+        _username = "";
+        _password = "";
+        _resultMsg = "";
+        _isLogin = login;
+    }
+}

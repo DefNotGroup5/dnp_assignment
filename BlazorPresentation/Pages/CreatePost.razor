@@ -1,0 +1,71 @@
+﻿@page "/CreatePost"
+@using Domain.DTOs
+@using HttpClients.ClientInterfaces
+@inject IPostService PostService
+@inject NavigationManager NavMgr
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+<div class="container">
+    <AuthorizeView>
+        <Authorized>
+            <h2>Create a Post!</h2>
+            <div class="post-title">
+                <label>Title:</label>
+                <input type="text" @bind="_title" maxlength="60"/>
+            </div>
+            <div class="post-body">
+                <label>Body:</label>
+                <textarea rows="10" cols="100" maxlength="4000" @bind="_body"></textarea>
+            </div>
+            <span class="error">@_resultMsg</span>
+            <div class="button-row">
+                <button class="create-button" @onclick="CreateAsync">Post</button>
+            </div>
+        </Authorized>
+        <NotAuthorized>
+            <h2>You Need To Login First!</h2>
+        </NotAuthorized>
+    </AuthorizeView>
+</div>
+
+@code {
+    private string _title;
+    private string _body;
+    private string _resultMsg = "";
+    private string? _username;
+
+    private async Task CreateAsync()
+    {
+        _resultMsg = "";
+        if (string.IsNullOrEmpty(_title))
+        {
+            _resultMsg = "The post needs a title!";
+            return;
+        }
+        if (string.IsNullOrEmpty(_body))
+        {
+            _resultMsg = "The post needs a body!";
+            return;
+        }
+    try
+
+    {
+            PostCreationDto dto = new PostCreationDto(_username, _title, _body);
+            await PostService.CreateAsync(dto);
+            _title = "";
+            _body = "";
+            NavMgr.NavigateTo("/Posts");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            _resultMsg = e.Message;
+        }
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+        _username = user.Identity?.Name;
+    }
+}

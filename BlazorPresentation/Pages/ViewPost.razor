@@ -1,0 +1,41 @@
+﻿@page "/ViewPost/{PostId:int}"
+@using Domain.Models
+@using HttpClients.ClientInterfaces
+@inject IPostService PostService;
+<div class="post-container">
+    @if (_post != null)
+    {
+        <div class="title">
+            <h2>@_post.Title</h2>
+        </div>
+        <div class="owner">
+            <label>@_post.Owner.Username</label>
+        </div>
+        <div class="post">
+            <p>@_post.Body</p>
+        </div>
+    }
+</div> 
+
+@code {
+    private Post? _post;
+
+    [Parameter]
+    public int? PostId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            if (PostId.HasValue)
+            {
+                _post = await PostService.GetById(PostId.Value);
+            }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+            
+        }
+    }
+}

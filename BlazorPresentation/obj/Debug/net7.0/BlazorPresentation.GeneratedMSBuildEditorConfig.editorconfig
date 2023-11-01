@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorPresentation
+build_property.RootNamespace = BlazorPresentation
+build_property.ProjectDir = C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Pakki\Desktop\DNP1_Assignment\BlazorPresentation
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/CreatePost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUG9zdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-uq0ti9d0ey
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cij5qcsdmr
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/LoginButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5CdXR0b25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-nwxzgndmbk
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/LoginRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5SZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xkbaruw8kt
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/ViewPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mq1ljgr4dj
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/ViewPosts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pwcro9zeoi
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qngraz8599
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-l55i91weic
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pakki/Desktop/DNP1_Assignment/BlazorPresentation/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

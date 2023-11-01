@@ -1,0 +1,57 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+.post-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.title {
+    margin: 20px 20px 0 20px;
+    font-size: 16pt;
+    height: auto;
+    width: auto;
+    padding: 2px;
+    backdrop-filter: blur(1px);
+}
+
+h2 {
+    color: white;
+    text-shadow: 0 0 4px black;
+    max-width: 800px; /* Set a maximum width for the h2 */
+    word-wrap: break-word;
+}
+
+.owner {
+    margin: 0 20px 0 40px;
+    height: auto;
+    width: auto;
+    padding: 2px;
+    backdrop-filter: blur(1px);
+}
+
+.post p {
+    font-size: 12pt;
+    word-wrap: break-word;
+    color: white;
+}
+
+.owner label {
+    text-decoration: underline;
+    color: white;
+    text-shadow: 0 0 3px black;
+}
+
+.post {
+    padding: 20px;
+    min-height: 100px;
+    height: auto;
+    background-color: rgba(81, 81, 81, 0.4);
+    backdrop-filter: blur(15px);
+    width: 800px;
+    border: 2px solid white;
+    box-shadow: 0 0 5px white;
+    margin-top: 15px;
+}
