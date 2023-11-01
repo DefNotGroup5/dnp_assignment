@@ -656,11 +656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\BlazorPresentation.csproj",
+      "projectUniqueName": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\BlazorPresentation.csproj",
       "projectName": "BlazorPresentation",
-      "projectPath": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\BlazorPresentation.csproj",
+      "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\BlazorPresentation.csproj",
       "packagesPath": "C:\\Users\\Pakki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\",
+      "outputPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pakki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -678,8 +678,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\HttpClients\\HttpClients.csproj": {
-              "projectPath": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\HttpClients\\HttpClients.csproj"
+            "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\HttpClients\\HttpClients.csproj": {
+              "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\HttpClients\\HttpClients.csproj"
             }
           }
         }

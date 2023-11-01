@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5dHQLCmv8ZG25ljMj8RP7xtCiDQ4/1GpOx8Cb90efXst0oggHiNIZC9hUpStHyy3KghIwJyHM5OYwaiBeN32A==",
+  "dgSpecHash": "+c2exdc+IqgZSPO5aY77AWovc4Z9WMrGSdHzVog/Jx94zBem/q+gux0ON5zH5A2XJccnua1N/y8Uy0NHcfmMZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\BlazorPresentation.csproj",
+  "projectFilePath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\BlazorPresentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pakki\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0-rc.2.23480.2\\microsoft.aspnetcore.authorization.8.0.0-rc.2.23480.2.nupkg.sha512",
     "C:\\Users\\Pakki\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
