@@ -32,7 +32,13 @@ public class PostLogic : IPostLogic
     public async Task<IEnumerable<Post>> GetPosts()
     {
         IEnumerable<Post> posts = await postDao.GetAsync();
-        return posts;
+        List<Post> postsToReturn = new List<Post>();
+        foreach (var post in posts)
+        {
+            post.Owner = await userDao.GetByIdAsync(post.OwnerId);
+            postsToReturn.Add(post);
+        }
+        return postsToReturn;
     }
 
     public async Task<Post> GetByIdAsync(int id)
