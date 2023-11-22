@@ -11,6 +11,12 @@
       "Username": "pokipotato",
       "Password": "12121212",
       "IsLoggedIn": true
+    },
+    {
+      "Id": 3,
+      "Username": "david",
+      "Password": "david123",
+      "IsLoggedIn": true
     }
   ],
   "Posts": [
@@ -99,6 +105,17 @@
         "Id": 1,
         "Username": "pokipotato",
         "Password": "12121212",
+        "IsLoggedIn": true
+      }
+    },
+    {
+      "Id": 9,
+      "Title": "Title",
+      "Body": "Body",
+      "Owner": {
+        "Id": 3,
+        "Username": "david",
+        "Password": "david123",
         "IsLoggedIn": true
       }
     }

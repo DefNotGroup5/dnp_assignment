@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GHfTW5z/WBoxgdEJBkDnSwTyPCmp9pdjESVCi6ZheXE=",
+  "Hash": "MH79iGzvbucwrJoNNicSajy82wlDsNLzy4sDLIyQW5s=",
   "Source": "BlazorPresentation",
   "BasePath": "_content/BlazorPresentation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorPresentation\\wwwroot",
       "Source": "BlazorPresentation",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorPresentation.styles.css",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorPresentation.styles.css",
       "SourceId": "BlazorPresentation",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "BlazorPresentation.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorPresentation.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorPresentation.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorPresentation.bundle.scp.css",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorPresentation.bundle.scp.css",
       "SourceId": "BlazorPresentation",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "BlazorPresentation.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorPresentation.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorPresentation.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\css\\site.css",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\favicon.png",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\img\\ea000cc6fb9375b14a7b21d55dcf9745.jpg",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\img\\ea000cc6fb9375b14a7b21d55dcf9745.jpg",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "img/ea000cc6fb9375b14a7b21d55dcf9745.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ea000cc6fb9375b14a7b21d55dcf9745.jpg"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\img\\Login.png",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\img\\Login.png",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "img/Login.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Login.png"
     },
     {
-      "Identity": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\img\\Logout.png",
+      "Identity": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\img\\Logout.png",
       "SourceId": "BlazorPresentation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pakki\\Desktop\\DNP1_Assignment\\BlazorPresentation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\BlazorPresentation\\wwwroot\\",
       "BasePath": "_content/BlazorPresentation",
       "RelativePath": "img/Logout.png",
       "AssetKind": "All",

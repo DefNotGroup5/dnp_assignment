@@ -24,7 +24,7 @@ public class PostLogic : IPostLogic
         if (!user.IsLoggedIn)
             throw new Exception("User must be logged in to create a post!");
         ValidatePostDto(dto);
-        Post post = new Post(dto.Title, dto.Body, user);
+        Post post = new Post(dto.Title, dto.Body, user.Id);
         Post created = await postDao.CreateAsync(post);
         return created;
     }

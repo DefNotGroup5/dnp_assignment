@@ -91,8 +91,8 @@
               "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\Application\\Application.csproj"
               },
-              "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\FileData\\FileData.csproj": {
-                "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\FileData\\FileData.csproj"
+              "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\EfcDataAccess\\EfcDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\EfcDataAccess\\EfcDataAccess.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\FileData\\FileData.csproj": {
+    "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\EfcDataAccess\\EfcDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\FileData\\FileData.csproj",
-        "projectName": "FileData",
-        "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\FileData\\FileData.csproj",
+        "projectUniqueName": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\EfcDataAccess\\EfcDataAccess.csproj",
+        "projectName": "EfcDataAccess",
+        "projectPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\EfcDataAccess\\EfcDataAccess.csproj",
         "packagesPath": "C:\\Users\\Pakki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\FileData\\obj\\",
+        "outputPath": "C:\\Users\\Pakki\\Documents\\GitHub\\dnp_assignment\\EfcDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pakki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -243,6 +243,22 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
